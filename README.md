@@ -20,8 +20,8 @@ Project Structure
 - results/: figures and outputs
 - report/: final write-up (LaTeX)
 
-Status
+Status:
 In progress (third-year MPhys Physics with Astrophysics project)
 
-Author
+Author:
 Soph Mainprize
