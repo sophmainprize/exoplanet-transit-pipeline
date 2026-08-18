@@ -1,0 +1,4 @@
+Rank,Target,Candidate_ID,Period_days,Epoch_BKJD,Depth_ppm,SNR,False_Positive,Catalog_Score,Confidence_Score,Status
+1,Kepler-10,Kepler-10 c (Simulated),45.294,215.12,320.0,18.4,False,1.0,0.985,CONFIRMED PLANET
+2,Kepler-10,Candidate 03 (Spurious),12.34,205.0,45.0,4.1,True,0.5,0.121,FALSE POSITIVE
+3,Kepler-10,Kepler-10 b,0.837495,200.57,-9.18,-0.36,False,1.0,0.0026,CANDIDATE
